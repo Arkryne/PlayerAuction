@@ -5,3 +5,5 @@ Simple application. Execute in terminal. The teams are stored as an attribute in
 Delete the player table in the terminal before re-execution for this reason.
 
 Perform the Auction first. After exiting it, the roster of each team can be viewed in 'View Teams'.
+
+None of the pictures belong to us, being students of course. Fair use.
